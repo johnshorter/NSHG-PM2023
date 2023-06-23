@@ -24,8 +24,10 @@ https://privefl.github.io/bigsnpr/articles/LDpred2.html
 The R markdown document we will work through is: LDPred2_workshop.Rmd
 Also included is an .html version of the R markdown file
 
-Three additional papers are attached for more background reading on these tools.
+Three additional papers are attached for more background reading on these tools. They are included in this directory.
+
 The Polygenic Score Catalog as an open database for reproducibility and systematic evaluation
+
 Tutorial - a guide to performing polygenic risk score analyses
 
 LDpred2 - better, faster, stronger
