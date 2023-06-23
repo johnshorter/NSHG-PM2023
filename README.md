@@ -5,8 +5,10 @@ https://nshg-pm2023.org/
 
 The workshop will be led by:
 John R Shorter, Roskilde University, Denmark
+https://forskning.ruc.dk/en/persons/johnsh
 
-The presentation for the workshop is titled NSHG2023_workshop.pptx
+The presentation for the workshop is titled:
+NSHG2023_workshop.pptx
 
 The first session is using the PGS catalog
 
@@ -23,4 +25,8 @@ The R markdown document we will work through is: LDPred2_workshop.Rmd
 Also included is an .html version of the R markdown file
 
 Three additional papers are attached for more background reading on these tools.
+The Polygenic Score Catalog as an open database for reproducibility and systematic evaluation
+Tutorial - a guide to performing polygenic risk score analyses
+
+LDpred2 - better, faster, stronger
 
